@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: a48f1b57018b64abeb5b5eeeadbc8d8e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Friendly Schoolmates
+  fontNames:
+  - Friendly Schoolmates
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 426e7aa96a07f4263a56c061dc5d81f1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
